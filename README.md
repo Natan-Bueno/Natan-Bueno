@@ -12,4 +12,5 @@
 <img align="center" alt="html5" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img align="center" alt="html5" src = "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 <img align="center" alt="html5" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+![Snake animation](https://github.com/Natan-Bueno/Natan-Bueno/blob/output/github-contribution-grid-snake.svg)
 </div>
