@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou o Natan Bueno 🙋‍♂️
 
-<!--
-**Natan-Bueno/Natan-Bueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Natan GitHub stats](https://github-readme-stats.vercel.app/api?username=Natan-Bueno&show_icons=true&theme=merko)
 
-Here are some ideas to get you started:
+### Tecnologias que utilizo em minha exploração e desenvolvimento:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="html5" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img align="center" alt="html5" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="html5" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" alt="html5" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img align="center" alt="html5" src = "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img align="center" alt="html5" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div>
